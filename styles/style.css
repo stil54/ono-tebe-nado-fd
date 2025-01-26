@@ -33,7 +33,6 @@
 
 .header__link {
   text-underline-position: under;
-  /* line-height: 21.13px; */
 }
 
 .header__link_active {
@@ -232,6 +231,7 @@
   padding: 120px 24px 180px 24px;
   gap: 20px;
 }
+
 .about__column {
   display: flex;
   flex-direction: column;
@@ -267,6 +267,7 @@
   font-weight: 400;
   font-size: 20px;
   white-space: pre-line;
+  gap: 25px;
 }
 
 .footer {
