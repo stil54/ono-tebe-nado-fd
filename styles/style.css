@@ -142,10 +142,10 @@
 }
 
 .bet-button {
-  font-size: 22px;
-  border: 1px solid #fff;
-  padding: 11px 31px 12px 32px;
   color: inherit;
+  font-size: 22px;
+  border: 1px solid currentColor;
+  padding: 11px 31px 12px 32px;
   text-transform: inherit;
   background: transparent;
 }
